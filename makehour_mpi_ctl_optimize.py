@@ -3,6 +3,7 @@
 """
 The purpose of this program is to process the observation data by using multiprocessing
              Written by SQZHU@ACES.FDU on Nov 1st, 2020
+             E-mail:19110740012@fudan.edu.cn
 """
 
 
